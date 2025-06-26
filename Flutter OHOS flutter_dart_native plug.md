@@ -1,5 +1,5 @@
 
-# DartNative
+# DartNative in HarmonyOS Next
 
 DartNative serves as a bridge between Dart and native APIs, providing a faster and more concise alternative to the lower-performance Flutter Channel.
 
